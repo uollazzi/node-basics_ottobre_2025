@@ -13,3 +13,7 @@ molt(4, 7);
 console.log("=".repeat(20))
 import myPath from "./es-path";
 myPath();
+
+console.log("=".repeat(20))
+import myFs from "./es-fs";
+myFs();
